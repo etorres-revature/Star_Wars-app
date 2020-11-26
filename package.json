@@ -1,7 +1,7 @@
 {
   "name": "starwars-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "An app that uses the Star Wars API",
   "main": "server.js",
   "dependencies": {
     "express": "^4.16.3"
@@ -14,6 +14,11 @@
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Eric D. Torres",
+  "license": "MIT",
+  "homepage": "https://shrouded-sea-48957.herokuapp.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etorres-revature/Star_Wars-app"
+  }
 }
